@@ -3,7 +3,7 @@ plt.rcParams["font.weight"] = "bold"
 plt.rcParams["axes.labelweight"] = "bold"
 plt.rc('xtick', labelsize=9)
 plt.rc('ytick', labelsize=9)
-plt.rc('savefig', dpi=300)
+plt.rc('savefig', dpi=600)
 plt.rc('axes',labelsize=9)
 plt.rc('legend',fontsize=8.1)
 
